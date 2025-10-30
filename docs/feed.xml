@@ -1,0 +1,174 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>한국공학대 공지사항</title>
+    <link>https://shinjuku7.github.io/shinjuku7/feed.xml</link>
+    <description>한국공학대 공지사항 비공식 RSS</description>
+    <atom:link href="https://shinjuku7.github.io/shinjuku7/feed.xml" rel="self"/>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <language>ko-kr</language>
+    <lastBuildDate>Thu, 30 Oct 2025 06:36:22 +0000</lastBuildDate>
+    <item>
+      <title>IT서비스 카카오톡</title>
+      <link>https://pf.kakao.com/_DyRxhn</link>
+      <guid isPermaLink="false">https://pf.kakao.com/_DyRxhn</guid>
+    </item>
+    <item>
+      <title>논문유사도검사</title>
+      <link>https://kpu.copykiller.com/</link>
+      <guid isPermaLink="false">https://kpu.copykiller.com/</guid>
+    </item>
+    <item>
+      <title>포털시스템</title>
+      <link>https://portal.tukorea.ac.kr/</link>
+      <guid isPermaLink="false">https://portal.tukorea.ac.kr/</guid>
+    </item>
+    <item>
+      <title>교직원</title>
+      <link>https://www.tukorea.ac.kr/tukorea/7607/subview.do#this</link>
+      <guid isPermaLink="false">https://www.tukorea.ac.kr/tukorea/7607/subview.do#this</guid>
+    </item>
+    <item>
+      <title>공용소프트웨어</title>
+      <link>https://tukorea.ac.kr/ICT/7402/subview..do</link>
+      <guid isPermaLink="false">https://tukorea.ac.kr/ICT/7402/subview..do</guid>
+    </item>
+    <item>
+      <title>도서관</title>
+      <link>https://library.tukorea.ac.kr/ksign/sso/index.jsp</link>
+      <guid isPermaLink="false">https://library.tukorea.ac.kr/ksign/sso/index.jsp</guid>
+    </item>
+    <item>
+      <title>현장실습시스템</title>
+      <link>https://coop.tukorea.ac.kr/</link>
+      <guid isPermaLink="false">https://coop.tukorea.ac.kr/</guid>
+    </item>
+    <item>
+      <title>인터넷증명발급</title>
+      <link>https://uni.webminwon.com/servlet/WMINDEX?COMMAND=ACTIVEX&amp;GIWANNO=024152</link>
+      <guid isPermaLink="false">https://uni.webminwon.com/servlet/WMINDEX?COMMAND=ACTIVEX&amp;GIWANNO=024152</guid>
+    </item>
+    <item>
+      <title>생활관</title>
+      <link>https://tukorea.ac.kr/sites/dorm/index..do</link>
+      <guid isPermaLink="false">https://tukorea.ac.kr/sites/dorm/index..do</guid>
+    </item>
+    <item>
+      <title>U-CAN+</title>
+      <link>https://job.tukorea.ac.kr/sso/index.jsp?ssoGb=ptfol</link>
+      <guid isPermaLink="false">https://job.tukorea.ac.kr/sso/index.jsp?ssoGb=ptfol</guid>
+    </item>
+    <item>
+      <title>수강신청시스템</title>
+      <link>https://sug.tukorea.ac.kr/</link>
+      <guid isPermaLink="false">https://sug.tukorea.ac.kr/</guid>
+    </item>
+    <item>
+      <title>메일시스템</title>
+      <link>https://www.tukorea.ac.kr/mailsso.do</link>
+      <guid isPermaLink="false">https://www.tukorea.ac.kr/mailsso.do</guid>
+    </item>
+    <item>
+      <title>e-Class</title>
+      <link>https://eclass.tukorea.ac.kr/ilos/sso/index.jsp</link>
+      <guid isPermaLink="false">https://eclass.tukorea.ac.kr/ilos/sso/index.jsp</guid>
+    </item>
+    <item>
+      <title>IT서비스 카카오톡</title>
+      <link>https://pf.kakao.com/_DyRxhn</link>
+      <guid isPermaLink="false">https://pf.kakao.com/_DyRxhn</guid>
+    </item>
+    <item>
+      <title>전자출결</title>
+      <link>https://ksc.tukorea.ac.kr/sso/login_stand.jsp?returnurl=https%3A%2F%2Fattend.tukorea.ac.kr%2Fsso%2Findex.jsp&amp;</link>
+      <guid isPermaLink="false">https://ksc.tukorea.ac.kr/sso/login_stand.jsp?returnurl=https%3A%2F%2Fattend.tukorea.ac.kr%2Fsso%2Findex.jsp&amp;</guid>
+    </item>
+    <item>
+      <title>포털시스템</title>
+      <link>https://portal.tukorea.ac.kr/</link>
+      <guid isPermaLink="false">https://portal.tukorea.ac.kr/</guid>
+    </item>
+    <item>
+      <title>학생/동문</title>
+      <link>https://www.tukorea.ac.kr/tukorea/7607/subview.do#this</link>
+      <guid isPermaLink="false">https://www.tukorea.ac.kr/tukorea/7607/subview.do#this</guid>
+    </item>
+    <item>
+      <title>학생/동문</title>
+      <link>https://www.tukorea.ac.kr/tukorea/7607/subview.do#this</link>
+      <guid isPermaLink="false">https://www.tukorea.ac.kr/tukorea/7607/subview.do#this</guid>
+    </item>
+    <item>
+      <title>ABOUTTU Korea</title>
+      <link>https://www.tukorea.ac.kr/tukorea/1065/subview..do</link>
+      <guid isPermaLink="false">https://www.tukorea.ac.kr/tukorea/1065/subview..do</guid>
+    </item>
+    <item>
+      <title>[문화체육관광부 대학생기자단 울림 21기 모집 안내]새글대기No.14356작성자학생지원팀조회수41등록일2025.10.290</title>
+      <link>https://www.tukorea.ac.kr/bbs/tukorea/1303/144404/artclView.do</link>
+      <guid isPermaLink="false">https://www.tukorea.ac.kr/bbs/tukorea/1303/144404/artclView.do</guid>
+      <pubDate>Wed, 29 Oct 2025 09:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[공모전]「허위정보 대응 아이디어 공모전 안내」새글대기No.14357작성자학생지원팀조회수61등록일2025.10.292</title>
+      <link>https://www.tukorea.ac.kr/bbs/tukorea/1303/144405/artclView.do</link>
+      <guid isPermaLink="false">https://www.tukorea.ac.kr/bbs/tukorea/1303/144405/artclView.do</guid>
+      <pubDate>Wed, 29 Oct 2025 09:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[학생상담센터] 11/5(수) 15:30~17:30 발표불안 극복 워크숍 신청 안내 (대면새글대기No.14358작성자학생상담센터조회수77등록일2025.10.290</title>
+      <link>https://www.tukorea.ac.kr/bbs/tukorea/1303/144406/artclView.do</link>
+      <guid isPermaLink="false">https://www.tukorea.ac.kr/bbs/tukorea/1303/144406/artclView.do</guid>
+      <pubDate>Wed, 29 Oct 2025 09:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>대학혁신지원사업 사업수혜 학생 대상 만족도 조사 참여요청 (~11.6.)새글대기No.14359작성자대학혁신지원사업단조회수138등록일2025.10.290</title>
+      <link>https://www.tukorea.ac.kr/bbs/tukorea/1303/144413/artclView.do</link>
+      <guid isPermaLink="false">https://www.tukorea.ac.kr/bbs/tukorea/1303/144413/artclView.do</guid>
+      <pubDate>Wed, 29 Oct 2025 09:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>2025-2학기 지역사회참여교과(CE교과)안내새글대기No.14360작성자대학공유협력센터조회수251등록일2025.10.290</title>
+      <link>https://www.tukorea.ac.kr/bbs/tukorea/1303/144420/artclView.do</link>
+      <guid isPermaLink="false">https://www.tukorea.ac.kr/bbs/tukorea/1303/144420/artclView.do</guid>
+      <pubDate>Wed, 29 Oct 2025 09:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>2025-2학기 지역사회참여교과(CE교과)안내작성자대학공유협력센터조회수251등록일2025.10.290</title>
+      <link>https://www.tukorea.ac.kr/bbs/tukorea/1303/144420/artclView.do</link>
+      <guid isPermaLink="false">https://www.tukorea.ac.kr/bbs/tukorea/1303/144420/artclView.do</guid>
+      <pubDate>Wed, 29 Oct 2025 09:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[2025년 민관 데이터 융합·활용 경진대회 안내]새글대기No.14361작성자학생지원팀조회수37등록일2025.10.301</title>
+      <link>https://www.tukorea.ac.kr/bbs/tukorea/1303/144429/artclView.do</link>
+      <guid isPermaLink="false">https://www.tukorea.ac.kr/bbs/tukorea/1303/144429/artclView.do</guid>
+      <pubDate>Thu, 30 Oct 2025 09:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[2026년도 UN 청소년 대표단 모집 안내]새글대기No.14362작성자학생지원팀조회수78등록일2025.10.302</title>
+      <link>https://www.tukorea.ac.kr/bbs/tukorea/1303/144430/artclView.do</link>
+      <guid isPermaLink="false">https://www.tukorea.ac.kr/bbs/tukorea/1303/144430/artclView.do</guid>
+      <pubDate>Thu, 30 Oct 2025 09:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>2025학년도 2학기 중간 수업만족도 평가(강의평가) 시행 안내새글대기No.14363작성자학사운영팀_수업조회수75등록일2025.10.300</title>
+      <link>https://www.tukorea.ac.kr/bbs/tukorea/1303/144431/artclView.do</link>
+      <guid isPermaLink="false">https://www.tukorea.ac.kr/bbs/tukorea/1303/144431/artclView.do</guid>
+      <pubDate>Thu, 30 Oct 2025 09:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[월곶청소년문화의집] 25-2학기 교외 국가근로 장학생 모집새글대기No.14364작성자학생지원팀조회수12등록일2025.10.301</title>
+      <link>https://www.tukorea.ac.kr/bbs/tukorea/1303/144445/artclView.do</link>
+      <guid isPermaLink="false">https://www.tukorea.ac.kr/bbs/tukorea/1303/144445/artclView.do</guid>
+      <pubDate>Thu, 30 Oct 2025 09:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[교수학습개발센터] 2025학년도 2학기(동계방학) 국가근로장학생 추가모집(~11/4)새글대기No.14365작성자교수학습개발센터조회수32등록일2025.10.301</title>
+      <link>https://www.tukorea.ac.kr/bbs/tukorea/1303/144446/artclView.do</link>
+      <guid isPermaLink="false">https://www.tukorea.ac.kr/bbs/tukorea/1303/144446/artclView.do</guid>
+      <pubDate>Thu, 30 Oct 2025 09:00:00 +0900</pubDate>
+    </item>
+  </channel>
+</rss>
