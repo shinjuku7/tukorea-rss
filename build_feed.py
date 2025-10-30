@@ -13,7 +13,7 @@ except Exception:
 
 BASE_URL = "https://www.tukorea.ac.kr/tukorea/7607/subview.do"
 OUTPUT_PATH = "docs/feed.xml"
-SELF_FEED_URL = "https://<YOUR_GITHUB_USERNAME>.github.io/<YOUR_REPO_NAME>/feed.xml"  # 수정
+SELF_FEED_URL = "https://shinjuku7.github.io/shinjuku7/feed.xml"  
 MAX_ITEMS = 30
 
 HEADERS = {
